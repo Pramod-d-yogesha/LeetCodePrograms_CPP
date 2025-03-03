@@ -82,5 +82,5 @@
 81. Sort List
 82. Maximum Sum Circular Subarray
 83. Find Peak Element
-84. Find Minimum in Rotated Sorted Array [Solution]
-85. Remove Duplicates from Sorted Array
+84. Find Minimum in Rotated Sorted Array                -DONE
+85. Remove Duplicates from Sorted Array                 -DONE
