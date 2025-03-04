@@ -55,7 +55,7 @@
 54. Copy List with Random Pointer
 55. Course Schedule [Solution]
 56. Design Add and Search Words Data Structure
-57. Merge Sorted Array
+57. Merge Sorted Array                                  -DONE
 58. Find Median from Data Stream
 59. Game of Life
 60. Jump Game
@@ -72,15 +72,15 @@
 71. Rotate Array
 72. Bitwise AND of Numbers Range
 73. Palindrome Number
-74. Plus One
+74. Plus One                                           -DONE
 75. Sqrt(x)
 76. Pow(x n) [Solution]
 77. Path Sum
 78. Surrounded Regions
 79. Evaluate Division
 80. Generate Parentheses [Solution]
-81. Sort List
+81. Sort List                                           -DONE
 82. Maximum Sum Circular Subarray
-83. Find Peak Element
+83. Find Peak Element                                   -DONE
 84. Find Minimum in Rotated Sorted Array                -DONE
 85. Remove Duplicates from Sorted Array                 -DONE
