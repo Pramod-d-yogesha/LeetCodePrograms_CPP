@@ -68,14 +68,13 @@
 67. Word Search II
 68. Reverse Nodes in k-Group
 69. Course Schedule II
-70. Remove Element
-71. Rotate Array
+70. Remove Element                                     -DONE
+71. Rotate Array                                       -DONE
 72. Bitwise AND of Numbers Range
-73. Palindrome Number
+73. Palindrome Number                                  -DONE
 74. Plus One                                           -DONE
 75. Sqrt(x)
 76. Pow(x n) [Solution]
-77. Path Sum
 78. Surrounded Regions
 79. Evaluate Division
 80. Generate Parentheses [Solution]
