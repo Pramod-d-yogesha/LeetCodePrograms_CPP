@@ -27,7 +27,6 @@
 26. 3Sum [Solution]                                     -DONE
 27. Container With Most Water [Solution]                -DONE
 28. Group Anagrams [Solution]                           -DONE
-29. Implement Trie (Prefix Tree)
 30. Kth Largest Element in an Array                     -DONE
 31. Longest Palindromic Substring                       -DONE
 32. Longest Substring Without Repeating Characters      -DONE
