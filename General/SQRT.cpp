@@ -25,11 +25,24 @@ Constraints:
 #include <iostream>
 #include<cmath>
 using namespace std;
-
 class Solution {
 public:
     int mySqrt(int x) {
-        return ((int)sqrt(x));
+        int left=0, right=x/2;
+        if (x==0 || x==1) return x; 
+        while(left<=right){
+            long mid=left+(right-left)/2;
+            if(mid*mid == x){
+                return mid;
+            }
+            else if(mid*mid < x){
+                left=mid+1;
+            }
+            else{
+                right=mid-1;
+            }
+        }
+        return right;
     }
 };
 
