@@ -41,7 +41,7 @@
 41. Search in Rotated Sorted Array
 42. Subsets [Solution]
 43. Top K Frequent Elements [Solution]
-44. Trapping Rain Water
+44. Trapping Rain Water                                  -DONE
 45. Two Sum II - Input Array Is Sorted
 46. Unique Paths
 47. Valid Sudoku
